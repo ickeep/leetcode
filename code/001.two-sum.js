@@ -3,7 +3,7 @@
  * @param {number} target
  * @return {number[]}
  */
-var twoSum = function (nums, target) {
+var 001 = function (nums, target) {
   const tmpMap = {}
   let arr = []
 
@@ -21,4 +21,4 @@ var twoSum = function (nums, target) {
   return arr
 }
 
-console.log(twoSum([2, 22, 11, 15, 7], 9));
+console.log(001([2, 22, 11, 15, 7], 9));
